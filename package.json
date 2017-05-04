@@ -1,5 +1,5 @@
 {
-  "name": "navidonskis/silverstripe-starter-theme",
+  "name": "silverstripe-starter-theme",
   "version": "1.0.0",
   "description": "Starter Kit for SilverStripe CMS theme",
   "scripts": {
@@ -22,7 +22,6 @@
     "babel-register": "^6.24.0",
     "babelify": "^7.3.0",
     "browser-sync": "^2.18.8",
-    "ftellipsis": "^0.2.3",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-babel": "^6.1.2",
