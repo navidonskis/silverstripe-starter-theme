@@ -1,0 +1,26 @@
+{
+  "name": "navidonskis/silverstripe-starter-theme",
+  "description": "Starter Kit for SilverStripe CMS theme",
+  "license": "BSD-3-Clause",
+  "type": "silverstripe-module",
+  "keywords": [
+    "silverstripe",
+    "starter",
+    "kit",
+    "theme",
+    "gulp",
+    "babel",
+    "ES6",
+    "SASS"
+  ],
+  "homepage": "https://github.com/navidonskis/silverstripe-starter-theme",
+  "authors": [
+    {
+      "name": "Donatas Navidonskis",
+      "email": "donatas@navidonskis.com"
+    }
+  ],
+  "extra": {
+    "installer-name": "themes/default"
+  }
+}
